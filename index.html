@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="Actor, model, and commercial talent digital portfolio with intro, photos, audition clips, and contact details."
+    />
+    <title>Audition Portfolio | Actor, Model, Ads</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:wght@600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header" aria-label="Primary navigation">
+      <a class="brand" href="#top" aria-label="Portfolio home">
+        <span class="brand-mark">A</span>
+        <span class="brand-text">Audition Portfolio</span>
+      </a>
+      <nav class="nav-links">
+        <a href="#profile">Profile</a>
+        <a href="#photos">Photos</a>
+        <a href="#clips">Clips</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </header>
+
+    <main id="top">
+      <section class="hero">
+        <div class="hero-visual" aria-hidden="true">
+          <div class="stage-light stage-light-one"></div>
+          <div class="stage-light stage-light-two"></div>
+          <div class="camera-frame">
+            <span></span>
+            <span></span>
+          </div>
+          <div class="spot-card spot-card-one"></div>
+          <div class="spot-card spot-card-two"></div>
+        </div>
+        <div class="hero-content">
+          <p class="eyebrow">Actor · Ads · Modelling</p>
+          <h1 id="talentName">Your Name</h1>
+          <p class="hero-copy" id="heroIntro">
+            Screen-ready talent for commercials, acting roles, brand shoots, and fashion-led campaigns.
+          </p>
+          <div class="hero-actions">
+            <a class="button button-primary" href="#clips">Watch Clips</a>
+            <a class="button button-secondary" href="#contact">Book / Contact</a>
+          </div>
+          <dl class="quick-stats" aria-label="Profile highlights">
+            <div>
+              <dt>Base</dt>
+              <dd id="baseCity">Mumbai / Delhi / Available</dd>
+            </div>
+            <div>
+              <dt>Languages</dt>
+              <dd id="languages">Hindi, English</dd>
+            </div>
+            <div>
+              <dt>Categories</dt>
+              <dd>Acting, Ads, Modelling</dd>
+            </div>
+          </dl>
+        </div>
+      </section>
+
+      <section class="section profile-section" id="profile">
+        <div class="section-heading">
+          <p class="eyebrow">Casting Snapshot</p>
+          <h2>Clear details, fast decisions.</h2>
+        </div>
+        <div class="profile-grid">
+          <article class="profile-panel">
+            <h3>Intro</h3>
+            <p id="bioText">
+              I am an actor and model available for advertisements, digital campaigns, short-form films, and
+              character-led audition opportunities. My work style is prepared, expressive, and camera-aware.
+            </p>
+          </article>
+          <article class="profile-panel">
+            <h3>Look</h3>
+            <ul class="detail-list" id="lookDetails"></ul>
+          </article>
+          <article class="profile-panel">
+            <h3>Strengths</h3>
+            <ul class="pill-list" id="strengthList"></ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="section" id="photos">
+        <div class="section-heading inline-heading">
+          <div>
+            <p class="eyebrow">Portfolio</p>
+            <h2>Photos that show range.</h2>
+          </div>
+          <div class="filter-group" aria-label="Photo filters">
+            <button class="filter-button active" type="button" data-filter="all">All</button>
+            <button class="filter-button" type="button" data-filter="headshot">Headshots</button>
+            <button class="filter-button" type="button" data-filter="commercial">Ads</button>
+            <button class="filter-button" type="button" data-filter="fashion">Modelling</button>
+          </div>
+        </div>
+        <div class="photo-grid" id="photoGrid"></div>
+      </section>
+
+      <section class="section clips-section" id="clips">
+        <div class="section-heading">
+          <p class="eyebrow">Audition Reel</p>
+          <h2>Intro and performance clips.</h2>
+        </div>
+        <div class="clip-grid" id="clipGrid"></div>
+      </section>
+
+      <section class="section contact-section" id="contact">
+        <div class="contact-copy">
+          <p class="eyebrow">Available for Casting</p>
+          <h2>Send a brief, script, or audition side.</h2>
+          <p>
+            Share role type, shoot city, tentative dates, usage, and budget range for the quickest response.
+          </p>
+        </div>
+        <div class="contact-card">
+          <a id="emailLink" href="mailto:your.email@example.com">your.email@example.com</a>
+          <a id="phoneLink" href="tel:+910000000000">+91 00000 00000</a>
+          <a id="instagramLink" href="#" target="_blank" rel="noreferrer">Instagram / Profile</a>
+          <button class="button button-primary" id="copyProfile" type="button">Copy Profile Link</button>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p>Digital portfolio for acting, advertisements, and modelling roles.</p>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
