@@ -9,10 +9,8 @@ Hi [Name / Casting Team],
 
 I hope you are well. I am Sarabpreet Singh, an actor and model available for acting roles, advertisements, digital campaigns, print shoots, and modelling assignments.
 
-Portfolio: https://sarabpreets7.github.io/audPortfolio/
+Portfolio (photos, intro, and audition clips): https://sarabpreets7.github.io/audPortfolio/
 
-Photos: https://drive.google.com/drive/folders/1RsryOwWPQDgKLOYBs60HqA91GneWw1m9
-intro: https://drive.google.com/file/d/15s3WvnhPBsroXZR_a82obtRJjPDm_Icc/view?usp=drivesdk
 Languages: Hindi, English, Punjabi
 
 Height: 6'2"
