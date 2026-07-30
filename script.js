@@ -57,6 +57,7 @@ const clips = [
     title: "Intro Video",
     description: "Short introduction for casting directors.",
     src: "media/videos/intro.mp4",
+    poster: "media/photos/intro-poster.jpg",
   },
   {
     title: "Ad Audition",
@@ -131,7 +132,7 @@ const renderClips = async () => {
       const hasVideo = await videoExists(clip.src);
       const media = hasVideo
         ? `
-            <video controls preload="metadata">
+            <video controls preload="metadata"${clip.poster ? ` poster="${clip.poster}"` : ""}>
               <source src="${clip.src}" type="video/mp4" />
             </video>
           `
