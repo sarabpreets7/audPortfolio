@@ -1,32 +1,35 @@
 # Casting Outreach Template
 
 Subject:
-Actor / Model Portfolio - sarab - 26 - Hindi,English,Punjabi
+Actor / Model Portfolio - Sarabpreet Singh - 26 - Hindi, English, Punjabi
 
-Email:
+Email: sarabpreets7@gmail.com
 
 Hi [Name / Casting Team],
 
-I hope you are well. I am Sarabpreet SIngh, an actor and model , available for acting roles, advertisements, digital campaigns, print shoots, and modelling assignments.
+I hope you are well. I am Sarabpreet Singh, an actor and model available for acting roles, advertisements, digital campaigns, print shoots, and modelling assignments.
+
+Portfolio: https://sarabpreets7.github.io/audPortfolio/
 
 Photos: https://drive.google.com/drive/folders/1RsryOwWPQDgKLOYBs60HqA91GneWw1m9
 intro: https://drive.google.com/file/d/15s3WvnhPBsroXZR_a82obtRJjPDm_Icc/view?usp=drivesdk
 Languages: Hindi, English, Punjabi
 
-Height: 6'2
-Weight - 86kgs
-Hair Color - Black
-Eye Color - Black
-Chest - 42 inch
-waist - 36 inch
+Height: 6'2"
+Weight: 86 kg
+Hair color: Black
+Eye color: Black
+Chest: 42 inch
+Waist: 36 inch
 
-Availability: available / travel-ready 
+Availability: Available / travel-ready
 
 I would be grateful if you could consider my profile for suitable casting briefs. I have attached/linked my headshots, intro, and audition clips as requested in your submission guidelines.
 
 Thank you,
 Sarabpreet Singh
 9811290071
+sarabpreets7@gmail.com
 Instagram : https://www.instagram.com/sarabpreetsingh338/
 
 ## Sending Rules

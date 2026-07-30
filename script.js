@@ -1,16 +1,16 @@
 const profile = {
-  name: "Your Name",
-  base: "Mumbai / Delhi / Available",
-  languages: "Hindi, English",
+  name: "Sarabpreet Singh",
+  base: "India / Travel-ready",
+  languages: "Hindi, English, Punjabi",
   intro:
-    "Screen-ready talent for commercials, acting roles, brand shoots, and fashion-led campaigns.",
+    "Actor and model available for advertisements, digital campaigns, print shoots, acting roles, and modelling assignments.",
   bio:
-    "I am an actor and model available for advertisements, digital campaigns, short-form films, and character-led audition opportunities. My work style is prepared, expressive, and camera-aware.",
-  email: "your.email@example.com",
-  phone: "+91 00000 00000",
-  instagram: "#",
-  look: ["Age range: 20s", "Height: 5'8\"", "Build: Fit", "Hair: Black", "Eyes: Brown"],
-  strengths: ["Natural acting", "Commercial smile", "Fashion posing", "Hindi dialogue", "Camera confidence"],
+    "I am Sarabpreet Singh, an actor and model available for acting roles, advertisements, digital campaigns, print shoots, and modelling assignments. I bring a strong, camera-ready screen presence with a natural look for commercial and character-led briefs.",
+  email: "sarabpreets7@gmail.com",
+  phone: "+91 98112 90071",
+  instagram: "https://www.instagram.com/sarabpreetsingh338/",
+  look: ["Age: 26", "Height: 6'2\"", "Weight: 86 kg", "Chest: 42\"", "Waist: 36\"", "Hair: Black", "Eyes: Black"],
+  strengths: ["Acting roles", "Commercial ads", "Print shoots", "Fitness look", "Modelling", "Hindi, English, Punjabi"],
 };
 
 const photos = [
