@@ -50,6 +50,12 @@ const photos = [
     label: "Outdoor lifestyle frame",
     src: "media/photos/1000161588.jpg",
   },
+  {
+    title: "Metro Casual",
+    type: "commercial",
+    label: "Everyday travel and urban look",
+    src: "media/photos/metro-casual-profile.jpeg",
+  },
 ];
 
 const clips = [
