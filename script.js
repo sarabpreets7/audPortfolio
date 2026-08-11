@@ -56,6 +56,12 @@ const photos = [
     label: "Everyday travel and urban look",
     src: "media/photos/metro-casual-profile.jpeg",
   },
+  {
+    title: "Fitness Casual",
+    type: "commercial",
+    label: "Strong casual profile and physique",
+    src: "media/photos/fitness-casual-profile.jpeg",
+  },
 ];
 
 const clips = [
