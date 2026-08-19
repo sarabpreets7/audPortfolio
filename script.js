@@ -21,6 +21,12 @@ const photos = [
     src: "media/photos/formal-suit-profile.jpeg",
   },
   {
+    title: "Casual Closeup",
+    type: "headshot",
+    label: "Natural expression and close camera presence",
+    src: "media/photos/red-casual-closeup.png",
+  },
+  {
     title: "Clean Casting Headshot",
     type: "headshot",
     label: "Direct front profile",
