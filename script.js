@@ -15,6 +15,12 @@ const profile = {
 
 const photos = [
   {
+    title: "Formal Suit Profile",
+    type: "fashion",
+    label: "Polished formal and premium look",
+    src: "media/photos/formal-suit-profile.jpeg",
+  },
+  {
     title: "Clean Casting Headshot",
     type: "headshot",
     label: "Direct front profile",
